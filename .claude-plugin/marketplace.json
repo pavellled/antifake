@@ -1,0 +1,14 @@
+{
+  "name": "antifake",
+  "description": "Independent multi-agent check of an agent's result before you see it",
+  "owner": {
+    "name": "pavellled"
+  },
+  "plugins": [
+    {
+      "name": "antifake",
+      "source": "./",
+      "description": "Fresh agents check the result, try to refute it and recompute the numbers; a card says what was verified"
+    }
+  ]
+}

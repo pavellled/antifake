@@ -1,0 +1,10 @@
+{
+  "name": "antifake",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "pavellled"
+  },
+  "homepage": "https://github.com/pavellled/antifake",
+  "description": "Fresh agents check the result, try to refute it and recompute the numbers; a card says what was verified"
+}
